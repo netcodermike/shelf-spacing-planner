@@ -1,0 +1,15 @@
+{
+  "command": [
+    "node",
+    "app.mjs"
+  ],
+  "expected": {
+    "fits": true,
+    "gap": 10,
+    "positions": [
+      10,
+      38,
+      78
+    ]
+  }
+}

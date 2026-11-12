@@ -1,0 +1,18 @@
+{
+  "width": 100,
+  "minimumGap": 3,
+  "items": [
+    {
+      "name": "Vase",
+      "width": 18
+    },
+    {
+      "name": "Books",
+      "width": 30
+    },
+    {
+      "name": "Frame",
+      "width": 12
+    }
+  ]
+}
